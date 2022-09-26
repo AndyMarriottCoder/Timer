@@ -1,2 +1,3 @@
 # Timer
-Timer to potentially use for team meetings
+
+This is a practise repo for me to create a timer app which could potentially be used for team meetings. 
