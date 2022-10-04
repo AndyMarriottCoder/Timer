@@ -41,6 +41,7 @@ if(countdownTimer <=0) {
     clearInterval(myInt);
 }
 
+// Call to the GUI
 timeCalculation('countdownTimerGUI');
 
 }, 1000);
